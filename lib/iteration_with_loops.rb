@@ -12,3 +12,4 @@ def join_nested_strings(src)
   row += 1
   end
   p new_string.join(" ")
+end
